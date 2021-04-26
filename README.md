@@ -11,4 +11,4 @@ pj assignment from professor J.V
 - creating a frontend that makes AJAX gets for filtering and POSTing data
 
 ## How Site works 
-![video](../docs/example.mov)
+[![video](/docs/example.mov)]
